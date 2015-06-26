@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="snowball"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Research/workspace/MyTools/xz-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Research/workspace/MyTools/commons-compress-1.9/commons-compress-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Research/workspace/General_Test/archives/stanford-parser.jar"/>
+	<classpathentry kind="lib" path="C:/Research/workspace/General_Test/archives/stanford-parser-3.5.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Research/workspace/General_Test/archives/stanford-parser-3.5.2-models.jar"/>
+	<classpathentry kind="lib" path="C:/Research/workspace/General_Test/archives/stanford-parser-3.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Research/Software/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Research/Software/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Research/Software/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2-models.jar"/>
+	<classpathentry kind="lib" path="C:/Research/Software/stanford-corenlp-full-2015-04-20/stanford-corenlp-3.5.2-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
